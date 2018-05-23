@@ -1,27 +1,27 @@
 #[macro_use]
-extern crate quicli;
-use quicli::prelude::*;
+extern crate structopt;
 #[macro_use]
 extern crate nom;
 extern crate reqwest;
 extern crate url;
 
 use std::collections::HashMap;
+use std::error::Error;
 use std::fs;
 use url::Url;
 
-// Add cool slogan for your app here, e.g.:
-/// Get first n lines of a file
-#[derive(Debug, StructOpt)]
-struct Cli {}
+/// A basic example
+#[derive(StructOpt, Debug)]
+#[structopt(name = "ytdl")]
+struct Opt {}
 
-main!(|args: Cli| {
+fn main() -> Result<(), Box<Error>> {
     let video_url = parse()?;
     println!("{:?}", video_url);
-    println!("{:?}", args);
-});
+    Ok(())
+}
 
-fn parse() -> Result<String> {
+fn parse() -> Result<String, Box<Error>> {
     let body = reqwest::get("http://youtube.com/get_video_info?video_id=pXwfDZLKYm8")?.text()?;
     let mapping = parse_url(body.as_str())?;
     if let Some(v) = mapping.get("url_encoded_fmt_stream_map") {
@@ -39,7 +39,7 @@ fn parse() -> Result<String> {
     Ok(String::new())
 }
 
-fn parse_url(qs: &str) -> Result<HashMap<String, String>> {
+fn parse_url(qs: &str) -> Result<HashMap<String, String>, Box<Error>> {
     let url = Url::parse(format!("https://example.com?{}", qs).as_str())?;
     let mapping: HashMap<_, _> = url.query_pairs().into_owned().collect();
     return Ok(mapping);
@@ -53,14 +53,14 @@ named!(
     )
 );
 
-fn parse_dash(vid: &str) -> Result<String> {
+fn parse_dash(vid: &str) -> Result<String, Box<Error>> {
     // let body = reqwest::get(format!("https://www.youtube.com/watch?v={}", vid).as_str())?.text()?;
     // let filename = format!("{}.html", vid);
     let body = fs::read_to_string("./pXwfDZLKYm8.html")?;
-    println!("{}", body);
+    // println!("{}", body);
     // fs::write(filename, body.as_str())?;
 
-    let yt = ytconfig("safsdf")?;
+    let yt = ytconfig(body.as_str())?;
     println!("{:?}", yt);
     Ok(String::from(""))
 }

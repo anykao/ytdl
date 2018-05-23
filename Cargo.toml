@@ -6,5 +6,5 @@ authors = ["600913 <600913@gmail.com>"]
 [dependencies]
 nom = "4.0.0"
 reqwest = "0.8.5"
-quicli = "0.2.0"
 url = "1.7.0"
+structopt = "0.2.8"
