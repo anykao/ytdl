@@ -9,11 +9,17 @@ extern crate serde_json;
 #[macro_use]
 extern crate serde_derive;
 extern crate url;
+#[macro_use]
+extern crate log;
+extern crate fern;
 
-use nom::types::CompleteStr;
+mod decipher;
+mod logger;
+mod parser;
+
+use parser::parse_dash;
 use std::collections::HashMap;
 use std::error::Error;
-use std::fs;
 use url::Url;
 
 /// A basic example
@@ -22,9 +28,10 @@ use url::Url;
 struct Opt {}
 
 fn main() -> Result<(), Box<Error>> {
+    logger::init();
     // let video_url = parse()?;
     // println!("{:?}", video_url);
-    decipher("", "").unwrap();
+    decipher::decipher("", "").unwrap();
     Ok(())
 }
 
@@ -37,7 +44,7 @@ fn parse() -> Result<String, Box<Error>> {
             if let Some(url) = m2.get("url") {
                 return Ok(url.to_string());
             } else {
-                return parse_dash("pXwfDZLKYm8");
+                return Ok(parse_dash("pXwfDZLKYm8"));
             }
         }
     } else {
@@ -51,75 +58,3 @@ fn parse_url(qs: &str) -> Result<HashMap<String, String>, Box<Error>> {
     let mapping: HashMap<_, _> = url.query_pairs().into_owned().collect();
     return Ok(mapping);
 }
-
-#[derive(Debug, Deserialize)]
-struct Assets {
-    js: String,
-}
-
-#[derive(Debug, Deserialize)]
-struct Args {
-    adaptive_fmts: String,
-}
-
-#[derive(Debug, Deserialize)]
-struct PlayerConfig {
-    assets: Assets,
-    args: Args,
-}
-
-fn parse_dash(vid: &str) -> Result<String, Box<Error>> {
-    named!(
-        ytconfig<CompleteStr, CompleteStr>,
-        do_parse!(
-            take_until_and_consume!("ytplayer.config") >>
-            ws!(tag!("=")) >>
-            obj: take_until!(";ytplayer.load") >>
-            (obj)
-        )
-    );
-    // let body = reqwest::get(format!("https://www.youtube.com/watch?v={}", vid).as_str())?.text()?;
-    // let filename = format!("{}.html", vid);
-    // let body = fs::read_to_string("./pXwfDZLKYm8.html")?;
-    // println!("{}", body);
-    // fs::write(filename, body.as_str())?;
-    let body = fs::read_to_string("./pXwfDZLKYm8.html")?;
-    let (_, json) = ytconfig(CompleteStr(body.as_str())).unwrap();
-    let config: PlayerConfig = serde_json::from_str(&json).unwrap();
-    println!("{:#?}", config);
-
-    // let mut resp = reqwest::get(format!("https://www.youtube.com/{}", config.assets.js).as_str())?;
-    // let mut file = File::create("script.js").unwrap();
-    // resp.copy_to(&mut file)?;
-
-    Ok(String::new())
-}
-
-fn decipher(_js: &str, s: &str) -> Result<String, Box<Error>> {
-    named!(
-        parser<CompleteStr, CompleteStr>,
-        do_parse!(
-            take_until_and_consume!(r#""signature","#) >>
-            f: take_until!("(") >>
-            delimited!( tag!("("), take_until!(")"), tag!(")"))>>
-            (f)
-        )
-    );
-    named!(
-        fdef<CompleteStr, CompleteStr>,
-        do_parse!(
-            take_until_and_consume!(r#"pL=function"#) >>
-            arg: delimited!( tag!("("), take_until!(")"), tag!(")"))>>
-            body: delimited!( tag!("{"), take_until!("}"), tag!("}"))>>
-            (body)
-        )
-    );
-    let script = fs::read_to_string("./script.js")?;
-    let (_, f) = parser(CompleteStr(script.as_str())).unwrap();
-    let (_, def) = fdef(CompleteStr(script.as_str())).unwrap();
-    println!("{}", f);
-    println!("{}", def);
-    Ok(String::new())
-}
-
-fn get_dash_url() {}
