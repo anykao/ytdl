@@ -1,6 +1,7 @@
 use super::sanitize;
 use super::VideoUrl;
 use reqwest;
+use reqwest::header::UserAgent;
 use serde_json::{self, Value};
 
 named!(
@@ -9,7 +10,13 @@ named!(
 );
 
 pub fn parse(url: &str) -> VideoUrl {
-    let body = reqwest::get(url).unwrap().text().unwrap();
+    let client = reqwest::Client::new();
+    let body = client.get(url)
+        .header(UserAgent::new("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"))
+        .send()
+        .unwrap()
+        .text()
+        .unwrap();
     let (_, data) = parse_data(&body).unwrap();
     let v: Value = serde_json::from_str(data[1]).unwrap();
     debug!("{:#?}", v);
