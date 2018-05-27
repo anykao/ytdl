@@ -1,60 +1,68 @@
-#![allow(dead_code)]
+#![cfg_attr(feature = "flame_it", feature(plugin, custom_attribute))]
+#![cfg_attr(feature = "flame_it", plugin(flamer))]
 #[macro_use]
 extern crate structopt;
-#[macro_use]
-extern crate nom;
-extern crate reqwest;
-extern crate serde;
-extern crate serde_json;
-#[macro_use]
-extern crate serde_derive;
 extern crate url;
 #[macro_use]
 extern crate log;
 extern crate fern;
+#[cfg(feature = "flame_it")]
+extern crate flame;
+extern crate ytdl;
 
-mod decipher;
+// mod decipher;
+// mod downloader;
 mod logger;
-mod parser;
+// mod parser;
 
-use parser::parse_dash;
+// use downloader::download;
+// use parser::parse;
 use std::collections::HashMap;
-use std::error::Error;
+use structopt::StructOpt;
 use url::Url;
+
+use ytdl::downloader::download;
+use ytdl::parse;
+use ytdl::Provider;
 
 /// A basic example
 #[derive(StructOpt, Debug)]
 #[structopt(name = "ytdl")]
-struct Opt {}
-
-fn main() -> Result<(), Box<Error>> {
-    logger::init();
-    // let video_url = parse()?;
-    // println!("{:?}", video_url);
-    decipher::decipher("", "").unwrap();
-    Ok(())
+struct Opt {
+    url_or_id: String,
 }
 
-fn parse() -> Result<String, Box<Error>> {
-    let body = reqwest::get("http://youtube.com/get_video_info?video_id=pXwfDZLKYm8")?.text()?;
-    let mapping = parse_url(body.as_str())?;
-    if let Some(v) = mapping.get("url_encoded_fmt_stream_map") {
-        for d in v.split(",") {
-            let m2 = parse_url(d)?;
-            if let Some(url) = m2.get("url") {
-                return Ok(url.to_string());
-            } else {
-                return Ok(parse_dash("pXwfDZLKYm8"));
+fn main() {
+    // ::std::env::set_var("RUST_BACKTRACE", "full");
+    logger::init();
+    let opt = Opt::from_args();
+    if let Some(ref p) = get_info(opt.url_or_id) {
+        let video_url = parse(p);
+        #[cfg_attr(feature = "flame_it", flame)]
+        download(video_url);
+    } else {
+        debug!("unknown provider")
+    }
+    // Dump the report to disk
+    #[cfg(feature = "flame_it")]
+    flame::dump_html(&mut ::std::fs::File::create("flame-graph.html").unwrap()).unwrap();
+}
+
+fn get_info(url_or_id: String) -> Option<Provider> {
+    if url_or_id.starts_with("http") {
+        let url = Url::parse(&url_or_id).unwrap();
+        let m: HashMap<_, _> = url.query_pairs().into_owned().collect();
+        match url.host_str() {
+            Some("youtube") => Some(Provider::Youtube(m["v"].clone())),
+            Some("www.douyin.com") | Some("www.tiktokv.com") => Some(Provider::Douyin(url_or_id)),
+            h => {
+                println!("{:?}", h);
+                None
             }
         }
     } else {
-        unimplemented!("dash")
+        Some(Provider::Youtube(url_or_id))
     }
-    Ok(String::new())
 }
 
-fn parse_url(qs: &str) -> Result<HashMap<String, String>, Box<Error>> {
-    let url = Url::parse(format!("https://example.com?{}", qs).as_str())?;
-    let mapping: HashMap<_, _> = url.query_pairs().into_owned().collect();
-    return Ok(mapping);
-}
+// https://www.tiktokv.com/i18n/share/video/6560042923969219841

@@ -22,11 +22,8 @@ pub fn init() {
                 message
         ))
     })
-    // Add blanket level filter -
-    .level(log::LevelFilter::Debug)
-    // - and per-module overrides
-    // .level_for("hyper", log::LevelFilter::Info)
-    // Output to stdout, files, and other Dispatch configurations
+    .level(log::LevelFilter::Info)
+    // .level_for("ytdl", log::LevelFilter::Debug)
     .chain(::std::io::stdout())
     // .chain(fern::log_file("output.log")?)
     // Apply globally
