@@ -63,7 +63,11 @@ pub fn parse(vid: &str) -> VideoUrl {
                 }
             } else {
                 if !audio_url.is_empty() && !video_url.is_empty() {
-                    return VideoUrl::Dash(video_url, audio_url, format!("{}_{}", good_title, vid));
+                    return VideoUrl::Dash {
+                        video_url,
+                        audio_url,
+                        filename: format!("{}_{}", good_title, vid),
+                    };
                 }
             }
         }

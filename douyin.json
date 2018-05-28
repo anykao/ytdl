@@ -1,0 +1,2012 @@
+{
+    "has_more": 1,
+    "status_code": 0,
+    "min_cursor": 1527483482000,
+    "aweme_list": [
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 12418,
+                "aweme_id": "6560491598172392712",
+                "comment_count": 30,
+                "share_count": 3,
+                "digg_count": 364
+            },
+            "music": {},
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6560491598172392712",
+                "share_desc": "\u52aa\u529b\u7ec3\u51fa\u9a6c\u7532\u7ebf!\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527483482,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=None&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=None&line=1"
+                    ],
+                    "uri": "None"
+                },
+                "height": 1280,
+                "cover": {
+                    "url_list": [
+                        "https://p1.pstatp.com/large/None.jpg",
+                        "https://pb3.pstatp.com/large/None.jpg",
+                        "https://pb3.pstatp.com/large/None.jpg"
+                    ],
+                    "uri": "large/None"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "https://p1.pstatp.com/large/None.jpg",
+                        "https://pb3.pstatp.com/large/None.jpg",
+                        "https://pb3.pstatp.com/large/None.jpg"
+                    ],
+                    "uri": "large/None"
+                },
+                "width": 960
+            },
+            "media_type": 2,
+            "aweme_id": "6560491598172392712",
+            "user_digged": 0,
+            "group_id": 6560491598172392712,
+            "desc": "\u52aa\u529b\u7ec3\u51fa\u9a6c\u7532\u7ebf!\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 58927,
+                "aweme_id": "6560194310065622276",
+                "comment_count": 50,
+                "share_count": 6,
+                "digg_count": 1363
+            },
+            "music": {
+                "status": 1,
+                "author_name": "Judy\u82cf\u82cf",
+                "cover_large": { "url_list": [], "uri": "88650017d563cf2ec86a" },
+                "cover_thumb": { "url_list": [], "uri": "88650017d563cf2ec86a" },
+                "cover_hd": { "url_list": [], "uri": "88650017d563cf2ec86a" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/862c0000fb42def6d0f7"],
+                    "uri": "862c0000fb42def6d0f7"
+                },
+                "mid": "6558398197386087182",
+                "cover_medium": { "url_list": [], "uri": "88650017d563cf2ec86a" },
+                "source": 23,
+                "music_name": "@Judy\u82cf\u82cf\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6560194310065622276",
+                "share_desc":
+                    "\u8ba9\u6211\u4eec\u4e00\u8d77\u6447\u6446\uff5e\uff5e\ud83d\ude02\ud83d\ude02\ud83d\ude02@\u5b97\u731b"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [{ "start": 15, "at_user_type": "", "user_id": "77319076680", "end": 18, "type": 0 }],
+            "create_time": 1527414266,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff10000bc57r6g7q8ifnjl8pjg0&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff10000bc57r6g7q8ifnjl8pjg0&line=1"
+                    ],
+                    "uri": "v0200ff10000bc57r6g7q8ifnjl8pjg0"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/87c4000baa05f0ec4201.jpg",
+                        "https://pb9.pstatp.com/large/87c4000baa05f0ec4201.jpg",
+                        "https://pb3.pstatp.com/large/87c4000baa05f0ec4201.jpg"
+                    ],
+                    "uri": "large/87c4000baa05f0ec4201"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p9.pstatp.com/obj/87c1000e19c29d5a795a",
+                        "http://pb1.pstatp.com/obj/87c1000e19c29d5a795a",
+                        "http://pb3.pstatp.com/obj/87c1000e19c29d5a795a"
+                    ],
+                    "uri": "87c1000e19c29d5a795a"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6560194310065622276",
+            "user_digged": 0,
+            "group_id": 6560194310065622276,
+            "desc":
+                "\u8ba9\u6211\u4eec\u4e00\u8d77\u6447\u6446\uff5e\uff5e\ud83d\ude02\ud83d\ude02\ud83d\ude02@\u5b97\u731b"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 78216,
+                "aweme_id": "6560131467819617540",
+                "comment_count": 182,
+                "share_count": 20,
+                "digg_count": 2154
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u6768\u8c46\u8c46SmiLe",
+                "cover_large": { "url_list": [], "uri": "55310014d99d9f315166" },
+                "cover_thumb": { "url_list": [], "uri": "55310014d99d9f315166" },
+                "cover_hd": { "url_list": [], "uri": "55310014d99d9f315166" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/72500006f5ab931ab445"],
+                    "uri": "72500006f5ab931ab445"
+                },
+                "mid": "6536489251023358728",
+                "cover_medium": { "url_list": [], "uri": "55310014d99d9f315166" },
+                "source": 23,
+                "music_name": "@\u6768\u8c46\u8c46SmiLe\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6560131467819617540",
+                "share_desc":
+                    "\u817f\u771f\u7684\u6ca1\u6709P\u54e6\uff5e\u4fe1\u4e0d\u4fe1\u7531\u4f60!\ud83d\udc6f\ud83d\udc6f\ud83d\udc6f"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527399633,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff10000bc549ct34q1b5lbedfrg&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff10000bc549ct34q1b5lbedfrg&line=1"
+                    ],
+                    "uri": "v0200ff10000bc549ct34q1b5lbedfrg"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/87b20003f4379c8ae153.jpg",
+                        "https://pb9.pstatp.com/large/87b20003f4379c8ae153.jpg",
+                        "https://pb3.pstatp.com/large/87b20003f4379c8ae153.jpg"
+                    ],
+                    "uri": "large/87b20003f4379c8ae153"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p1.pstatp.com/obj/87b300021f40be6a627b",
+                        "http://pb3.pstatp.com/obj/87b300021f40be6a627b",
+                        "http://pb3.pstatp.com/obj/87b300021f40be6a627b"
+                    ],
+                    "uri": "87b300021f40be6a627b"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6560131467819617540",
+            "user_digged": 0,
+            "group_id": 6560131467819617540,
+            "desc":
+                "\u817f\u771f\u7684\u6ca1\u6709P\u54e6\uff5e\u4fe1\u4e0d\u4fe1\u7531\u4f60!\ud83d\udc6f\ud83d\udc6f\ud83d\udc6f"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 94352,
+                "aweme_id": "6560062105712594190",
+                "comment_count": 202,
+                "share_count": 23,
+                "digg_count": 3005
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u8d75\u8587",
+                "cover_large": {
+                    "url_list": ["https://p3.pstatp.com/live/720x720/4d5600291e0119a3fcf1.jpg"],
+                    "uri": "4d5600291e0119a3fcf1"
+                },
+                "cover_thumb": {
+                    "url_list": ["https://p3.pstatp.com/live/100x100/4d5600291e0119a3fcf1.jpg"],
+                    "uri": "4d5600291e0119a3fcf1"
+                },
+                "cover_hd": {
+                    "url_list": ["https://p3.pstatp.com/live/1080x1080/4d5600291e0119a3fcf1.jpg"],
+                    "uri": "4d5600291e0119a3fcf1"
+                },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/504b0001c7c525bf59dc"],
+                    "uri": "504b0001c7c525bf59dc"
+                },
+                "mid": "6499683166658726670",
+                "cover_medium": {
+                    "url_list": ["https://p3.pstatp.com/live/200x200/4d5600291e0119a3fcf1.jpg"],
+                    "uri": "4d5600291e0119a3fcf1"
+                },
+                "source": 22,
+                "music_name": "\u6709\u4e00\u4e2a\u59d1\u5a18",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6560062105712594190",
+                "share_desc": "\u65e9\u5b89\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527383486,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f780000bc509j5ahtmbf3b6q810&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f780000bc509j5ahtmbf3b6q810&line=1"
+                    ],
+                    "uri": "v0200f780000bc509j5ahtmbf3b6q810"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/879e0007bbb3d56fe5c4.jpg",
+                        "https://pb9.pstatp.com/large/879e0007bbb3d56fe5c4.jpg",
+                        "https://pb3.pstatp.com/large/879e0007bbb3d56fe5c4.jpg"
+                    ],
+                    "uri": "large/879e0007bbb3d56fe5c4"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/879d000999429cb7f2cc",
+                        "http://pb9.pstatp.com/obj/879d000999429cb7f2cc",
+                        "http://pb3.pstatp.com/obj/879d000999429cb7f2cc"
+                    ],
+                    "uri": "879d000999429cb7f2cc"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6560062105712594190",
+            "user_digged": 0,
+            "group_id": 6560062105712594190,
+            "desc": "\u65e9\u5b89\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 75254,
+                "aweme_id": "6559827285585693955",
+                "comment_count": 81,
+                "share_count": 5,
+                "digg_count": 1477
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u73af\u7403\u8fbe\u4eba\u00b7\u534e\u4ed4",
+                "cover_large": { "url_list": [], "uri": "6710000d411d3d7ae31e" },
+                "cover_thumb": { "url_list": [], "uri": "6710000d411d3d7ae31e" },
+                "cover_hd": { "url_list": [], "uri": "6710000d411d3d7ae31e" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/6f7100073ff0e868f810"],
+                    "uri": "6f7100073ff0e868f810"
+                },
+                "mid": "6533751529848408846",
+                "cover_medium": { "url_list": [], "uri": "6710000d411d3d7ae31e" },
+                "source": 23,
+                "music_name": "@\u73af\u7403\u8fbe\u4eba\u00b7\u534e\u4ed4\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6559827285585693955",
+                "share_desc": "\u4e00\u751f\u75f4\u7edd\u5904    \u65e0\u68a6\u5230\u5fbd\u5dde\uff5e"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527328812,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f780000bc4ivge4tqbpv6gjri8g&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f780000bc4ivge4tqbpv6gjri8g&line=1"
+                    ],
+                    "uri": "v0200f780000bc4ivge4tqbpv6gjri8g"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p1.pstatp.com/large/877a0002182b466900ad.jpg",
+                        "https://pb3.pstatp.com/large/877a0002182b466900ad.jpg",
+                        "https://pb3.pstatp.com/large/877a0002182b466900ad.jpg"
+                    ],
+                    "uri": "large/877a0002182b466900ad"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/87760012ba95e91809f5",
+                        "http://pb9.pstatp.com/obj/87760012ba95e91809f5",
+                        "http://pb3.pstatp.com/obj/87760012ba95e91809f5"
+                    ],
+                    "uri": "87760012ba95e91809f5"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6559827285585693955",
+            "user_digged": 0,
+            "group_id": 6559827285585693955,
+            "desc": "\u4e00\u751f\u75f4\u7edd\u5904    \u65e0\u68a6\u5230\u5fbd\u5dde\uff5e"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 103404,
+                "aweme_id": "6559798054109580547",
+                "comment_count": 46,
+                "share_count": 10,
+                "digg_count": 1966
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u9ec4\u9711,\u5f20\u56fd\u8363",
+                "cover_large": {
+                    "url_list": ["https://p3.pstatp.com/live/720x720/3ee40013974dc1ad19b5.jpg"],
+                    "uri": "3ee40013974dc1ad19b5"
+                },
+                "cover_thumb": {
+                    "url_list": ["https://p3.pstatp.com/live/100x100/3ee40013974dc1ad19b5.jpg"],
+                    "uri": "3ee40013974dc1ad19b5"
+                },
+                "cover_hd": {
+                    "url_list": ["https://p3.pstatp.com/live/1080x1080/3ee40013974dc1ad19b5.jpg"],
+                    "uri": "3ee40013974dc1ad19b5"
+                },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/3ed50004bfbf5faf6203"],
+                    "uri": "3ed50004bfbf5faf6203"
+                },
+                "mid": "6476312761092705037",
+                "cover_medium": {
+                    "url_list": ["https://p3.pstatp.com/live/200x200/3ee40013974dc1ad19b5.jpg"],
+                    "uri": "3ee40013974dc1ad19b5"
+                },
+                "source": 22,
+                "music_name":
+                    "\u505a\u5bf9\u76f8\u601d\u71d5\uff08\u7535\u5f71\u300a\u4e1c\u6210\u897f\u5c31\u300b\u7247\u6bb5\uff09",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [
+                {
+                    "schema": "aweme://aweme/challenge/detail?cid=1600147528099843",
+                    "user_count": 0,
+                    "cid": "1600147528099843",
+                    "cha_name": "\u4f60\u771f\u662f\u6bcf\u4e2a\u52a8\u4f5c\u90fd\u662f\u620f\ud83d\ude0f",
+                    "author": {},
+                    "desc":
+                        "\u5728\u6296\u97f3\uff0c\u8868\u6f14\u5f71\u89c6\u5267\u53f0\u8bcd\u4e0d\u53ea\u6709\u7b80\u5355\u7684\u5bf9\u53e3\u578b\uff0c\u8fd8\u53ef\u4ee5\u8c03\u52a8\u5168\u8eab\u7684\u5f62\u4f53\u52a8\u4f5c\u53bb\u4f20\u9012\u53f0\u8bcd\u7684\u542b\u4e49\u3002\u5982\u679c\u7528\u624b\u8bed\u52a8\u4f5c\u62cd\u624b\u52bf\u821e\u5bf9\u4f60\u6765\u8bf4\u5df2\u7ecf\u5341\u5206\u5f97\u5fc3\u5e94\u624b\u4e86\uff0c\u4e0d\u5982\u6765\u8bd5\u8bd5\u7528\u4e30\u5bcc\u6709\u8da3\u800c\u53c8\u5f62\u8c61\u7684\u80a2\u4f53\u8bed\u8a00\uff0c\u624b\u8bed\u52a8\u4f5c\u6765\u8868\u6f14\u7ecf\u5178\u5f71\u89c6\u5267\u7684\u53f0\u8bcd\u5427\u3002\u4e0d\u5f97\u4e0d\u8bf4\uff0c\u62e5\u6709\u5982\u6b64\u522b\u5177\u4e00\u683c\u7684\u53f0\u8bcd\u8be0\u91ca\u65b9\u5f0f\uff0c\u7b80\u76f4\u5c31\u662f\u201c\u4e0d\u8bf4\u8bdd\u7684\u8868\u6f14\u5927\u5e08\u201d\uff0c\u4f60\u7684\u6bcf\u4e2a\u52a8\u4f5c\u90fd\u662f\u620f~"
+                }
+            ],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6559798054109580547",
+                "share_desc":
+                    "\u53ea\u4e3a\u640f\u4f60\u4e00\u7b11\uff0c\u6211\u4e5f\u662f\u62fc\u4e86!\ud83d\ude02\ud83d\ude02\u6709\u5c0f\u5fc3\u5fc3\u5417\uff1f\u2764"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527322007,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f780000bc4ha29cgf37dc1c6cd0&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f780000bc4ha29cgf37dc1c6cd0&line=1"
+                    ],
+                    "uri": "v0200f780000bc4ha29cgf37dc1c6cd0"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/876f000c7ca5aa73ce74.jpg",
+                        "https://pb9.pstatp.com/large/876f000c7ca5aa73ce74.jpg",
+                        "https://pb3.pstatp.com/large/876f000c7ca5aa73ce74.jpg"
+                    ],
+                    "uri": "large/876f000c7ca5aa73ce74"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p9.pstatp.com/obj/8770000ac1cc028f23cf",
+                        "http://pb1.pstatp.com/obj/8770000ac1cc028f23cf",
+                        "http://pb3.pstatp.com/obj/8770000ac1cc028f23cf"
+                    ],
+                    "uri": "8770000ac1cc028f23cf"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6559798054109580547",
+            "user_digged": 0,
+            "group_id": 6559798054109580547,
+            "desc":
+                "\u53ea\u4e3a\u640f\u4f60\u4e00\u7b11\uff0c\u6211\u4e5f\u662f\u62fc\u4e86!\ud83d\ude02\ud83d\ude02\u6709\u5c0f\u5fc3\u5fc3\u5417\uff1f\u2764"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 147971,
+                "aweme_id": "6559729343700929806",
+                "comment_count": 247,
+                "share_count": 41,
+                "digg_count": 6132
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u6c6a\u6c6a\u6ca1\u60f3\u5230",
+                "cover_large": { "url_list": [], "uri": "80e600280fc2d480d485" },
+                "cover_thumb": { "url_list": [], "uri": "80e600280fc2d480d485" },
+                "cover_hd": { "url_list": [], "uri": "80e600280fc2d480d485" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/66520006cc86df468bcd"],
+                    "uri": "66520006cc86df468bcd"
+                },
+                "mid": "6521954824341654275",
+                "cover_medium": { "url_list": [], "uri": "80e600280fc2d480d485" },
+                "source": 23,
+                "music_name": "@\u6c6a\u6c6a\u6ca1\u60f3\u5230\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6559729343700929806",
+                "share_desc":
+                    "\u4e0e\u541b\u5f39\u4e00\u66f2\uff0c\u8bf7\u541b\u4e3a\u6211\u503e\u8033\u542c\uff5e\uff5e\u2764"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527306010,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff10000bc4de3mdm151rraje4sg&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff10000bc4de3mdm151rraje4sg&line=1"
+                    ],
+                    "uri": "v0200ff10000bc4de3mdm151rraje4sg"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/875e00022c7f684c8c0f.jpg",
+                        "https://pb9.pstatp.com/large/875e00022c7f684c8c0f.jpg",
+                        "https://pb3.pstatp.com/large/875e00022c7f684c8c0f.jpg"
+                    ],
+                    "uri": "large/875e00022c7f684c8c0f"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p1.pstatp.com/obj/875900143492508f2955",
+                        "http://pb3.pstatp.com/obj/875900143492508f2955",
+                        "http://pb3.pstatp.com/obj/875900143492508f2955"
+                    ],
+                    "uri": "875900143492508f2955"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6559729343700929806",
+            "user_digged": 0,
+            "group_id": 6559729343700929806,
+            "desc": "\u4e0e\u541b\u5f39\u4e00\u66f2\uff0c\u8bf7\u541b\u4e3a\u6211\u503e\u8033\u542c\uff5e\uff5e\u2764"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 120886,
+                "aweme_id": "6559449703417646343",
+                "comment_count": 125,
+                "share_count": 29,
+                "digg_count": 3451
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u738b\u5fc3\u51cc",
+                "cover_large": {
+                    "url_list": ["https://p3.pstatp.com/live/720x720/2bda003f03d9b8f37402.jpg"],
+                    "uri": "2bda003f03d9b8f37402"
+                },
+                "cover_thumb": {
+                    "url_list": ["https://p3.pstatp.com/live/100x100/2bda003f03d9b8f37402.jpg"],
+                    "uri": "2bda003f03d9b8f37402"
+                },
+                "cover_hd": {
+                    "url_list": ["https://p3.pstatp.com/live/1080x1080/2bda003f03d9b8f37402.jpg"],
+                    "uri": "2bda003f03d9b8f37402"
+                },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/29c300007e3ff273a3d0"],
+                    "uri": "29c300007e3ff273a3d0"
+                },
+                "mid": "6441774704205400846",
+                "cover_medium": {
+                    "url_list": ["https://p3.pstatp.com/live/200x200/2bda003f03d9b8f37402.jpg"],
+                    "uri": "2bda003f03d9b8f37402"
+                },
+                "source": 22,
+                "music_name": "\u7231\u4f60 ",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6559449703417646343",
+                "share_desc": "\u7231\u7b11\u7684\u4eba\u8fd0\u6c14\u4e00\u5b9a\u7279\u522b\u68d2!\u2764"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527240897,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f940000bc3tfjt8n75jqj4h64g0&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f940000bc3tfjt8n75jqj4h64g0&line=1"
+                    ],
+                    "uri": "v0200f940000bc3tfjt8n75jqj4h64g0"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/87300004db5db6e843c3.jpg",
+                        "https://pb9.pstatp.com/large/87300004db5db6e843c3.jpg",
+                        "https://pb3.pstatp.com/large/87300004db5db6e843c3.jpg"
+                    ],
+                    "uri": "large/87300004db5db6e843c3"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/872e00073d8df1915a92",
+                        "http://pb9.pstatp.com/obj/872e00073d8df1915a92",
+                        "http://pb3.pstatp.com/obj/872e00073d8df1915a92"
+                    ],
+                    "uri": "872e00073d8df1915a92"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6559449703417646343",
+            "user_digged": 0,
+            "group_id": 6559449703417646343,
+            "desc": "\u7231\u7b11\u7684\u4eba\u8fd0\u6c14\u4e00\u5b9a\u7279\u522b\u68d2!\u2764"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 148902,
+                "aweme_id": "6558992027260816644",
+                "comment_count": 148,
+                "share_count": 42,
+                "digg_count": 3217
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u8427\u5168/\u5b59\u8bed\u8d5b",
+                "cover_large": {
+                    "url_list": ["https://p3.pstatp.com/live/720x720/aweme-original-music/1594638684438532.jpg"],
+                    "uri": "aweme-original-music/1594638684438532"
+                },
+                "cover_thumb": {
+                    "url_list": ["https://p3.pstatp.com/live/100x100/aweme-original-music/1594638684438532.jpg"],
+                    "uri": "aweme-original-music/1594638684438532"
+                },
+                "cover_hd": {
+                    "url_list": ["https://p3.pstatp.com/live/1080x1080/aweme-original-music/1594638684438532.jpg"],
+                    "uri": "aweme-original-music/1594638684438532"
+                },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/6c6a0003e91de84a82f5"],
+                    "uri": "6c6a0003e91de84a82f5"
+                },
+                "mid": "6531640171555719939",
+                "cover_medium": {
+                    "url_list": ["https://p3.pstatp.com/live/200x200/aweme-original-music/1594638684438532.jpg"],
+                    "uri": "aweme-original-music/1594638684438532"
+                },
+                "source": 25,
+                "music_name": "\u4e0d\u4ec5\u4ec5\u662f\u559c\u6b22",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [
+                {
+                    "schema": "aweme://aweme/challenge/detail?cid=1599870072931331",
+                    "user_count": 0,
+                    "cid": "1599870072931331",
+                    "cha_name": "\u8c01\u4e5f\u6321\u4e0d\u4f4f\u4f60\u7684\u5fae\u7b11",
+                    "author": {},
+                    "desc":
+                        "\u4f60\u53ef\u80fd\u6ca1\u6709\u53d1\u73b0\uff0c\u4f60\u7684\u56de\u7738\u4e00\u7b11\u767e\u5a9a\u751f\uff0c\u60ca\u8273\u4e86\u90a3\u4e9b\u5e73\u9759\u65e0\u6f9c\u7684\u65e5\u5e38\uff1b\u4f60\u84e6\u7136\u56de\u9996\u5730\u5ae3\u7136\u4e00\u7b11\uff0c\u5439\u6563\u4e86\u8bb8\u591a\u4eba\u5fc3\u4e0a\u7684\u9634\u973e\u3002\u5c31\u662f\u8fd9\u6837\u5e73\u51e1\u800c\u53c8\u73cd\u8d35\u7684\u7b11\u5bb9\uff0c\u4f20\u9012\u6e29\u6696\u7ed9\u4e88\u529b\u91cf\uff0c\u62c9\u8fd1\u8ddd\u79bb\u6d88\u9664\u9694\u9602\uff0c\u6e29\u67d4\u4e86\u6bcf\u4e2a\u4eba\u7684\u4e16\u754c\u3002\n5\u67088\u65e5\u662f\u4e16\u754c\u5fae\u7b11\u65e5\uff0c\u8bb0\u5f97\u56de\u5934\u65f6\uff0c\u7559\u7ed9\u5927\u5bb6\u4e00\u4e2a\u6700\u7f8e\u7684\u5fae\u7b11\u5427~\u662f\u4f60\u7684\u5fae\u7b11\uff0c\u624d\u8ba9\u4eba\u95f4\u66f4\u503c\u5f97\u5440\u3002"
+                }
+            ],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6558992027260816644",
+                "share_desc":
+                    "\u8fd8\u662f\u5439\u98ce\u673a\u7684\u6548\u679c\u597d\uff5e\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527134336,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f7d0000bc33gtoghl0u60vstg10&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f7d0000bc33gtoghl0u60vstg10&line=1"
+                    ],
+                    "uri": "v0200f7d0000bc33gtoghl0u60vstg10"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/86e00001eefe04802380.jpg",
+                        "https://pb9.pstatp.com/large/86e00001eefe04802380.jpg",
+                        "https://pb3.pstatp.com/large/86e00001eefe04802380.jpg"
+                    ],
+                    "uri": "large/86e00001eefe04802380"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/86df000a15f0afbb0880",
+                        "http://pb9.pstatp.com/obj/86df000a15f0afbb0880",
+                        "http://pb3.pstatp.com/obj/86df000a15f0afbb0880"
+                    ],
+                    "uri": "86df000a15f0afbb0880"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6558992027260816644",
+            "user_digged": 0,
+            "group_id": 6558992027260816644,
+            "desc": "\u8fd8\u662f\u5439\u98ce\u673a\u7684\u6548\u679c\u597d\uff5e\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 305946,
+                "aweme_id": "6558646864919399694",
+                "comment_count": 221,
+                "share_count": 36,
+                "digg_count": 5870
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u5b8b\u4e39\u4e39",
+                "cover_large": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "cover_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "cover_hd": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/862b0005f19d1c5e7b53"],
+                    "uri": "862b0005f19d1c5e7b53"
+                },
+                "mid": "6558646870720121607",
+                "cover_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "source": 23,
+                "music_name": "@\u5b8b\u4e39\u4e39\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6558646864919399694",
+                "share_desc":
+                    "\u4f60\u4eec\u5f88\u597d\u5947\u4e3b\u6301\u4eba\u7684\u5de5\u4f5c\u5bf9\u5427\uff1f\u7ed9\u4f60\u4eec\u770b\u770b\u5de5\u4f5c\u65f6\u7684\u6211\uff5e\ud83d\ude1c\ud83d\ude1d"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527053971,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe30000bc2ft21cgf37fa61p960&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe30000bc2ft21cgf37fa61p960&line=1"
+                    ],
+                    "uri": "v0200fe30000bc2ft21cgf37fa61p960"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p1.pstatp.com/large/86a80008d6e75f19bea7.jpg",
+                        "https://pb3.pstatp.com/large/86a80008d6e75f19bea7.jpg",
+                        "https://pb3.pstatp.com/large/86a80008d6e75f19bea7.jpg"
+                    ],
+                    "uri": "large/86a80008d6e75f19bea7"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/86aa000693f70b176694",
+                        "http://pb9.pstatp.com/obj/86aa000693f70b176694",
+                        "http://pb3.pstatp.com/obj/86aa000693f70b176694"
+                    ],
+                    "uri": "86aa000693f70b176694"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6558646864919399694",
+            "user_digged": 0,
+            "group_id": 6558646864919399694,
+            "desc":
+                "\u4f60\u4eec\u5f88\u597d\u5947\u4e3b\u6301\u4eba\u7684\u5de5\u4f5c\u5bf9\u5427\uff1f\u7ed9\u4f60\u4eec\u770b\u770b\u5de5\u4f5c\u65f6\u7684\u6211\uff5e\ud83d\ude1c\ud83d\ude1d"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 166436,
+                "aweme_id": "6558612788179111181",
+                "comment_count": 63,
+                "share_count": 28,
+                "digg_count": 2388
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u5fbd\u8c10\u5267\u793e",
+                "cover_large": { "url_list": [], "uri": "85f6001911dfc7f590a6" },
+                "cover_thumb": { "url_list": [], "uri": "85f6001911dfc7f590a6" },
+                "cover_hd": { "url_list": [], "uri": "85f6001911dfc7f590a6" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/7e130006c9c7930693c8"],
+                    "uri": "7e130006c9c7930693c8"
+                },
+                "mid": "6547919553479838477",
+                "cover_medium": { "url_list": [], "uri": "85f6001911dfc7f590a6" },
+                "source": 23,
+                "music_name": "@\u5fbd\u8c10\u5267\u793e\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6558612788179111181",
+                "share_desc": "\u95fa\u871c\u80e1\u8776"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1527046048,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe70000bc2dv50697asd64v4t1g&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe70000bc2dv50697asd64v4t1g&line=1"
+                    ],
+                    "uri": "v0200fe70000bc2dv50697asd64v4t1g"
+                },
+                "height": 960,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/86a50002af83dcc9df29.jpg",
+                        "https://pb9.pstatp.com/large/86a50002af83dcc9df29.jpg",
+                        "https://pb3.pstatp.com/large/86a50002af83dcc9df29.jpg"
+                    ],
+                    "uri": "large/86a50002af83dcc9df29"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p1.pstatp.com/obj/869f0010ef8fd6762812",
+                        "http://pb3.pstatp.com/obj/869f0010ef8fd6762812",
+                        "http://pb3.pstatp.com/obj/869f0010ef8fd6762812"
+                    ],
+                    "uri": "869f0010ef8fd6762812"
+                },
+                "width": 540
+            },
+            "media_type": 4,
+            "aweme_id": "6558612788179111181",
+            "user_digged": 0,
+            "group_id": 6558612788179111181,
+            "desc": "\u95fa\u871c\u80e1\u8776"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 204061,
+                "aweme_id": "6558363196162313476",
+                "comment_count": 314,
+                "share_count": 89,
+                "digg_count": 5576
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u8463\u8463\u80e4\u6210",
+                "cover_large": { "url_list": [], "uri": "c150008821011f1cf99" },
+                "cover_thumb": { "url_list": [], "uri": "c150008821011f1cf99" },
+                "cover_hd": { "url_list": [], "uri": "c150008821011f1cf99" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/43ec0001b860a179e99b"],
+                    "uri": "43ec0001b860a179e99b"
+                },
+                "mid": "6484618148663462669",
+                "cover_medium": { "url_list": [], "uri": "c150008821011f1cf99" },
+                "source": 23,
+                "music_name": "@\u8463\u8463\u80e4\u6210\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6558363196162313476",
+                "share_desc": "\u8fd8\u8bb0\u5f97\u897f\u6e38\u8bb0\u91cc\u7684\u7389\u5154\u7cbe\u5417\uff1f"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1526987932,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff50000bc1vp520ifkv1vkkkcd0&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff50000bc1vp520ifkv1vkkkcd0&line=1"
+                    ],
+                    "uri": "v0200ff50000bc1vp520ifkv1vkkkcd0"
+                },
+                "height": 960,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/868300048f35bb1d1b23.jpg",
+                        "https://pb9.pstatp.com/large/868300048f35bb1d1b23.jpg",
+                        "https://pb3.pstatp.com/large/868300048f35bb1d1b23.jpg"
+                    ],
+                    "uri": "large/868300048f35bb1d1b23"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/8682000a1815495b9263",
+                        "http://pb9.pstatp.com/obj/8682000a1815495b9263",
+                        "http://pb3.pstatp.com/obj/8682000a1815495b9263"
+                    ],
+                    "uri": "8682000a1815495b9263"
+                },
+                "width": 540
+            },
+            "media_type": 4,
+            "aweme_id": "6558363196162313476",
+            "user_digged": 0,
+            "group_id": 6558363196162313476,
+            "desc": "\u8fd8\u8bb0\u5f97\u897f\u6e38\u8bb0\u91cc\u7684\u7389\u5154\u7cbe\u5417\uff1f"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 162411,
+                "aweme_id": "6558325435883588878",
+                "comment_count": 94,
+                "share_count": 12,
+                "digg_count": 2230
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u8463\u8463\u80e4\u6210",
+                "cover_large": { "url_list": [], "uri": "c150008821011f1cf99" },
+                "cover_thumb": { "url_list": [], "uri": "c150008821011f1cf99" },
+                "cover_hd": { "url_list": [], "uri": "c150008821011f1cf99" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/43ec0001b860a179e99b"],
+                    "uri": "43ec0001b860a179e99b"
+                },
+                "mid": "6484618148663462669",
+                "cover_medium": { "url_list": [], "uri": "c150008821011f1cf99" },
+                "source": 23,
+                "music_name": "@\u8463\u8463\u80e4\u6210\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6558325435883588878",
+                "share_desc": "\u7b54\u5e94\u6211\uff1a\u522b\u7b11\u597d\u5417\uff1f"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1526979248,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff50000bc1tkf36936mllkm2pt0&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff50000bc1tkf36936mllkm2pt0&line=1"
+                    ],
+                    "uri": "v0200ff50000bc1tkf36936mllkm2pt0"
+                },
+                "height": 960,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/86770007def54473a846.jpg",
+                        "https://pb9.pstatp.com/large/86770007def54473a846.jpg",
+                        "https://pb3.pstatp.com/large/86770007def54473a846.jpg"
+                    ],
+                    "uri": "large/86770007def54473a846"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/867a0003e8a6457d5e07",
+                        "http://pb9.pstatp.com/obj/867a0003e8a6457d5e07",
+                        "http://pb3.pstatp.com/obj/867a0003e8a6457d5e07"
+                    ],
+                    "uri": "867a0003e8a6457d5e07"
+                },
+                "width": 540
+            },
+            "media_type": 4,
+            "aweme_id": "6558325435883588878",
+            "user_digged": 0,
+            "group_id": 6558325435883588878,
+            "desc": "\u7b54\u5e94\u6211\uff1a\u522b\u7b11\u597d\u5417\uff1f"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 198721,
+                "aweme_id": "6558323605342522632",
+                "comment_count": 136,
+                "share_count": 31,
+                "digg_count": 4086
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u6296\u97f3\u5c0f\u52a9\u624b",
+                "cover_large": {
+                    "url_list": ["https://p3.pstatp.com/live/720x720/7e68000db6940480c77a.jpg"],
+                    "uri": "7e68000db6940480c77a"
+                },
+                "cover_thumb": {
+                    "url_list": ["https://p3.pstatp.com/live/100x100/7e68000db6940480c77a.jpg"],
+                    "uri": "7e68000db6940480c77a"
+                },
+                "cover_hd": {
+                    "url_list": ["https://p3.pstatp.com/live/1080x1080/7e68000db6940480c77a.jpg"],
+                    "uri": "7e68000db6940480c77a"
+                },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/7e7f000222c418648566"],
+                    "uri": "7e7f000222c418648566"
+                },
+                "mid": "6548672341931625230",
+                "cover_medium": {
+                    "url_list": ["https://p3.pstatp.com/live/200x200/7e68000db6940480c77a.jpg"],
+                    "uri": "7e68000db6940480c77a"
+                },
+                "source": 22,
+                "music_name": "\u4e66\u6853\u8d70\u7684\u90a3\u4e9b\u5929...",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6558323605342522632",
+                "share_desc": "\u770b\u8fc7\u7a7f\u53e4\u88c5\u8df3\u55e8\u66f2\u7684\u5417\uff1f\ud83d\udc83"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1526978761,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe70000bc1th4hpjc2vij291s00&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe70000bc1th4hpjc2vij291s00&line=1"
+                    ],
+                    "uri": "v0200fe70000bc1th4hpjc2vij291s00"
+                },
+                "height": 960,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/8676000ea87e14708170.jpg",
+                        "https://pb9.pstatp.com/large/8676000ea87e14708170.jpg",
+                        "https://pb3.pstatp.com/large/8676000ea87e14708170.jpg"
+                    ],
+                    "uri": "large/8676000ea87e14708170"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p1.pstatp.com/obj/867a0002936aac2a14bd",
+                        "http://pb3.pstatp.com/obj/867a0002936aac2a14bd",
+                        "http://pb3.pstatp.com/obj/867a0002936aac2a14bd"
+                    ],
+                    "uri": "867a0002936aac2a14bd"
+                },
+                "width": 540
+            },
+            "media_type": 4,
+            "aweme_id": "6558323605342522632",
+            "user_digged": 0,
+            "group_id": 6558323605342522632,
+            "desc": "\u770b\u8fc7\u7a7f\u53e4\u88c5\u8df3\u55e8\u66f2\u7684\u5417\uff1f\ud83d\udc83"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 172016,
+                "aweme_id": "6558289746454383879",
+                "comment_count": 261,
+                "share_count": 41,
+                "digg_count": 3177
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\ud83c\udf6d\ud83c\udf65\u5a1c\u5a1c\uff5e\uff5e",
+                "cover_large": { "url_list": [], "uri": "5fcf001df09578717a4f" },
+                "cover_thumb": { "url_list": [], "uri": "5fcf001df09578717a4f" },
+                "cover_hd": { "url_list": [], "uri": "5fcf001df09578717a4f" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/5fbf0000b036d5bc8c21"],
+                    "uri": "5fbf0000b036d5bc8c21"
+                },
+                "mid": "6517553131654482691",
+                "cover_medium": { "url_list": [], "uri": "5fcf001df09578717a4f" },
+                "source": 23,
+                "music_name": "@\ud83c\udf6d\ud83c\udf65\u5a1c\u5a1c\uff5e\uff5e\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [
+                {
+                    "schema": "aweme://aweme/challenge/detail?cid=1600974300338189",
+                    "user_count": 0,
+                    "cid": "1600974300338189",
+                    "cha_name": "Music\uff01\u73b0\u5728\u662f\u6000\u65e7\u65f6\u95f4",
+                    "author": {},
+                    "desc":
+                        "\u6700\u8fd1\u662f\u4e0d\u662f\u88ab\u300ahoney\u300b\u8fd9\u9996\u6b4c\u5237\u5c4f\u6d17\u8111\u4e86\u5450\uff1f\u6bcf\u9996\u6b4c\u91cc\u90fd\u85cf\u7740\u4e00\u6bb5\u65e7\u65f6\u5149\uff0c\u518d\u6b21\u542c\u5230\u90a3\u4e9b\u627f\u8f7d\u7740\u65e0\u9650\u56de\u5fc6\u7684\u8001\u6b4c\u65f6\uff0c\u66fe\u7ecf\u5e74\u5c11\u7684\u3001\u9752\u6625\u7684\u5f80\u4e8b\u4eff\u4f5b\u4e5f\u5728\u773c\u524d\u94fa\u9648\u5f00\u6765\u3002\n\u8bb8\u591a\u65e7\u65f6\u7684\u6b4c\u66f2\u603b\u662f\u6709\u7740\u65e0\u6cd5\u8a00\u8bf4\u7684\u9b45\u529b\uff0c\u6bcf\u6b21\u56de\u5473\u90fd\u80fd\u5e26\u6765\u4e0d\u4e00\u6837\u7684\u611f\u53d7~\u6b64\u523b\uff0c\u4f60\u7684\u8033\u7554\u54cd\u8d77\u4e86\u54ea\u4e9b\u6000\u65e7\u5374\u4ecd\u6709\u7740\u9752\u6625\u6d3b\u529b\u7684\u5c81\u6708\u4e4b\u6b4c\u5462\uff1f\u8d76\u7d27\u914d\u5408\u6b4c\u8bcd\u7684\u542b\u4e49\u62cd\u6444\uff0c\u7528\u89c6\u9891\u5e26\u5927\u5bb6\u8d70\u8fdb\u4f60\u7684\u6000\u65e7KTV\u5427\uff5e"
+                }
+            ],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6558289746454383879",
+                "share_desc":
+                    "\u53f6\u5029\u6587 \u7ecf\u5178\u8001\u6b4c\u300a\u6f47\u6d12\u8d70\u4e00\u56de\u300b\u6b4c\u58f0\u98d8\u8fc730\u5e74"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1526970831,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f9a0000bc1rjht81shglr7hkbs0&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f9a0000bc1rjht81shglr7hkbs0&line=1"
+                    ],
+                    "uri": "v0200f9a0000bc1rjht81shglr7hkbs0"
+                },
+                "height": 960,
+                "cover": {
+                    "url_list": [
+                        "https://p1.pstatp.com/large/867400019cd011f1f4d3.jpg",
+                        "https://pb3.pstatp.com/large/867400019cd011f1f4d3.jpg",
+                        "https://pb3.pstatp.com/large/867400019cd011f1f4d3.jpg"
+                    ],
+                    "uri": "large/867400019cd011f1f4d3"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/866e0010b0b15899369c",
+                        "http://pb9.pstatp.com/obj/866e0010b0b15899369c",
+                        "http://pb3.pstatp.com/obj/866e0010b0b15899369c"
+                    ],
+                    "uri": "866e0010b0b15899369c"
+                },
+                "width": 540
+            },
+            "media_type": 4,
+            "aweme_id": "6558289746454383879",
+            "user_digged": 0,
+            "group_id": 6558289746454383879,
+            "desc":
+                "\u53f6\u5029\u6587 \u7ecf\u5178\u8001\u6b4c\u300a\u6f47\u6d12\u8d70\u4e00\u56de\u300b\u6b4c\u58f0\u98d8\u8fc730\u5e74"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 182224,
+                "aweme_id": "6557853119697390862",
+                "comment_count": 112,
+                "share_count": 19,
+                "digg_count": 2459
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u98ce\u5439\u9ea6\u7530\u6447\ud83d\udc8b",
+                "cover_large": { "url_list": [], "uri": "85eb002236ec8608e4e9" },
+                "cover_thumb": { "url_list": [], "uri": "85eb002236ec8608e4e9" },
+                "cover_hd": { "url_list": [], "uri": "85eb002236ec8608e4e9" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/8324000183329ad10a4e"],
+                    "uri": "8324000183329ad10a4e"
+                },
+                "mid": "6553095014153456391",
+                "cover_medium": { "url_list": [], "uri": "85eb002236ec8608e4e9" },
+                "source": 23,
+                "music_name": "@\u98ce\u5439\u9ea6\u7530\u6447\ud83d\udc8b\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6557853119697390862",
+                "share_desc":
+                    "\u65b0\u7684\u4e00\u5468\u5f00\u59cb\u5566\uff01\u270c\u52aa\u529b\u5de5\u4f5c\ud83d\udcaa\u5feb\u4e50\u6296\u97f3\uff01\ud83d\ude01\ud83d\ude01"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1526869163,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f500000bc12p9hpjc2p3e79msmg&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f500000bc12p9hpjc2p3e79msmg&line=1"
+                    ],
+                    "uri": "v0200f500000bc12p9hpjc2p3e79msmg"
+                },
+                "height": 960,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/857a000338fe60a2a026.jpg",
+                        "https://pb9.pstatp.com/large/857a000338fe60a2a026.jpg",
+                        "https://pb3.pstatp.com/large/857a000338fe60a2a026.jpg"
+                    ],
+                    "uri": "large/857a000338fe60a2a026"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/8574000ce3429e0758ad",
+                        "http://pb9.pstatp.com/obj/8574000ce3429e0758ad",
+                        "http://pb3.pstatp.com/obj/8574000ce3429e0758ad"
+                    ],
+                    "uri": "8574000ce3429e0758ad"
+                },
+                "width": 544
+            },
+            "media_type": 4,
+            "aweme_id": "6557853119697390862",
+            "user_digged": 0,
+            "group_id": 6557853119697390862,
+            "desc":
+                "\u65b0\u7684\u4e00\u5468\u5f00\u59cb\u5566\uff01\u270c\u52aa\u529b\u5de5\u4f5c\ud83d\udcaa\u5feb\u4e50\u6296\u97f3\uff01\ud83d\ude01\ud83d\ude01"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 165206,
+                "aweme_id": "6557582212307356941",
+                "comment_count": 53,
+                "share_count": 9,
+                "digg_count": 2594
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u5b8b\u4e39\u4e39",
+                "cover_large": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "cover_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "cover_hd": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/860c000578bfbe1dbcf4"],
+                    "uri": "860c000578bfbe1dbcf4"
+                },
+                "mid": "6557582259598297864",
+                "cover_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "source": 23,
+                "music_name": "@\u5b8b\u4e39\u4e39\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6557582212307356941",
+                "share_desc":
+                    "\u5434\u514b\u7fa4\u300a\u4e3a\u4f60\u5199\u8bd7\u300b\uff0c\u559c\u6b22\u5434\u514b\u7fa4\u7684\u8d5e\u4e00\u4e2a\uff01\u2764@\u5434\u514b\u7fa4"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [{ "start": 21, "at_user_type": "", "user_id": "58806342120", "end": 25, "type": 0 }],
+            "create_time": 1526806090,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f500000bc0jbhqr863oc9h7f3l0&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f500000bc0jbhqr863oc9h7f3l0&line=1"
+                    ],
+                    "uri": "v0200f500000bc0jbhqr863oc9h7f3l0"
+                },
+                "height": 544,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/854c00048014d170e8e9.jpg",
+                        "https://pb9.pstatp.com/large/854c00048014d170e8e9.jpg",
+                        "https://pb3.pstatp.com/large/854c00048014d170e8e9.jpg"
+                    ],
+                    "uri": "large/854c00048014d170e8e9"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/8547001278cc8e9c0eda",
+                        "http://pb9.pstatp.com/obj/8547001278cc8e9c0eda",
+                        "http://pb3.pstatp.com/obj/8547001278cc8e9c0eda"
+                    ],
+                    "uri": "8547001278cc8e9c0eda"
+                },
+                "width": 960
+            },
+            "media_type": 4,
+            "aweme_id": "6557582212307356941",
+            "user_digged": 0,
+            "group_id": 6557574468070280452,
+            "desc":
+                "\u5434\u514b\u7fa4\u300a\u4e3a\u4f60\u5199\u8bd7\u300b\uff0c\u559c\u6b22\u5434\u514b\u7fa4\u7684\u8d5e\u4e00\u4e2a\uff01\u2764@\u5434\u514b\u7fa4"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 149122,
+                "aweme_id": "6557489232783346952",
+                "comment_count": 102,
+                "share_count": 15,
+                "digg_count": 1947
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u65b9\u96c5\u8d24",
+                "cover_large": {
+                    "url_list": ["https://p3.pstatp.com/live/720x720/c150000286462eefc7e.jpg"],
+                    "uri": "c150000286462eefc7e"
+                },
+                "cover_thumb": {
+                    "url_list": ["https://p3.pstatp.com/live/100x100/c150000286462eefc7e.jpg"],
+                    "uri": "c150000286462eefc7e"
+                },
+                "cover_hd": {
+                    "url_list": ["https://p3.pstatp.com/live/1080x1080/c150000286462eefc7e.jpg"],
+                    "uri": "c150000286462eefc7e"
+                },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/29c30000405adb9f7783"],
+                    "uri": "29c30000405adb9f7783"
+                },
+                "mid": "6366511774522411777",
+                "cover_medium": {
+                    "url_list": ["https://p3.pstatp.com/live/200x200/c150000286462eefc7e.jpg"],
+                    "uri": "c150000286462eefc7e"
+                },
+                "source": 22,
+                "music_name": "\u9047\u5230",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6557489232783346952",
+                "share_desc":
+                    "\u4eca\u5929\u662f520\ud83d\udc91\u5e0c\u671b\u6211\u7684\u7b11\u80fd\u7ed9\u4f60\u4e00\u5929\u597d\u5fc3\u60c5\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1526784439,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f490000bc0e2slqg5bb00bs2jog&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f490000bc0e2slqg5bb00bs2jog&line=1"
+                    ],
+                    "uri": "v0200f490000bc0e2slqg5bb00bs2jog"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p3.pstatp.com/large/852b000f60ab71345375.jpg",
+                        "https://pb9.pstatp.com/large/852b000f60ab71345375.jpg",
+                        "https://pb3.pstatp.com/large/852b000f60ab71345375.jpg"
+                    ],
+                    "uri": "large/852b000f60ab71345375"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p3.pstatp.com/obj/852f0003350a2715810a",
+                        "http://pb9.pstatp.com/obj/852f0003350a2715810a",
+                        "http://pb3.pstatp.com/obj/852f0003350a2715810a"
+                    ],
+                    "uri": "852f0003350a2715810a"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6557489232783346952",
+            "user_digged": 0,
+            "group_id": 6557489232783346952,
+            "desc":
+                "\u4eca\u5929\u662f520\ud83d\udc91\u5e0c\u671b\u6211\u7684\u7b11\u80fd\u7ed9\u4f60\u4e00\u5929\u597d\u5fc3\u60c5\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764"
+        },
+        {
+            "status": { "allow_share": true, "allow_comment": true, "is_delete": false },
+            "label_large": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb9.pstatp.com/obj/c1500005a13914f1bcc",
+                    "http://pb3.pstatp.com/obj/c1500005a13914f1bcc"
+                ],
+                "uri": "c1500005a13914f1bcc"
+            },
+            "good_choice": 0,
+            "statistics": {
+                "play_count": 154152,
+                "aweme_id": "6557451141167189255",
+                "comment_count": 55,
+                "share_count": 27,
+                "digg_count": 1667
+            },
+            "music": {
+                "status": 1,
+                "author_name": "\u8fc7\u513f\u5c0f\u72ee\u59b9",
+                "cover_large": { "url_list": [], "uri": "80de002f0d3de1345f12" },
+                "cover_thumb": { "url_list": [], "uri": "80de002f0d3de1345f12" },
+                "cover_hd": { "url_list": [], "uri": "80de002f0d3de1345f12" },
+                "user_count": 0,
+                "play_url": {
+                    "url_list": ["https://p3.pstatp.com/obj/7e870004c7824939c209"],
+                    "uri": "7e870004c7824939c209"
+                },
+                "mid": "6549098143558929165",
+                "cover_medium": { "url_list": [], "uri": "80de002f0d3de1345f12" },
+                "source": 23,
+                "music_name": "@\u8fc7\u513f\u5c0f\u72ee\u59b9\u521b\u4f5c\u7684\u539f\u58f0",
+                "schema_url": ""
+            },
+            "author": {
+                "avatar_larger": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "birthday": "1989-02-04",
+                "nickname": "\u5b8b\u4e39\u4e39",
+                "short_id": "695120155",
+                "gender": 2,
+                "avatar_medium": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "signature": "\u4e3b\u6301\u4eba\u5b8b\u4e39\u4e39\u5c31\u662f\u6211\uff5e",
+                "avatar_thumb": { "url_list": [], "uri": "7e5e00104beca8b26651" },
+                "is_verified": true,
+                "unique_id": ""
+            },
+            "cha_list": [
+                {
+                    "schema": "aweme://aweme/challenge/detail?cid=1599870072931331",
+                    "user_count": 0,
+                    "cid": "1599870072931331",
+                    "cha_name": "\u8c01\u4e5f\u6321\u4e0d\u4f4f\u4f60\u7684\u5fae\u7b11",
+                    "author": {},
+                    "desc":
+                        "\u4f60\u53ef\u80fd\u6ca1\u6709\u53d1\u73b0\uff0c\u4f60\u7684\u56de\u7738\u4e00\u7b11\u767e\u5a9a\u751f\uff0c\u60ca\u8273\u4e86\u90a3\u4e9b\u5e73\u9759\u65e0\u6f9c\u7684\u65e5\u5e38\uff1b\u4f60\u84e6\u7136\u56de\u9996\u5730\u5ae3\u7136\u4e00\u7b11\uff0c\u5439\u6563\u4e86\u8bb8\u591a\u4eba\u5fc3\u4e0a\u7684\u9634\u973e\u3002\u5c31\u662f\u8fd9\u6837\u5e73\u51e1\u800c\u53c8\u73cd\u8d35\u7684\u7b11\u5bb9\uff0c\u4f20\u9012\u6e29\u6696\u7ed9\u4e88\u529b\u91cf\uff0c\u62c9\u8fd1\u8ddd\u79bb\u6d88\u9664\u9694\u9602\uff0c\u6e29\u67d4\u4e86\u6bcf\u4e2a\u4eba\u7684\u4e16\u754c\u3002\n5\u67088\u65e5\u662f\u4e16\u754c\u5fae\u7b11\u65e5\uff0c\u8bb0\u5f97\u56de\u5934\u65f6\uff0c\u7559\u7ed9\u5927\u5bb6\u4e00\u4e2a\u6700\u7f8e\u7684\u5fae\u7b11\u5427~\u662f\u4f60\u7684\u5fae\u7b11\uff0c\u624d\u8ba9\u4eba\u95f4\u66f4\u503c\u5f97\u5440\u3002"
+                }
+            ],
+            "share_info": {
+                "share_weibo_desc":
+                    "#\u5728\u6296\u97f3\uff0c\u8bb0\u5f55\u7f8e\u597d\u751f\u6d3b# @\u5b8b\u4e39\u4e39 \u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01\u6233\u8fd9\u91cc>>",
+                "share_title":
+                    "@\u5b8b\u4e39\u4e39\u53d1\u4e86\u4e00\u4e2a\u6296\u97f3\u77ed\u89c6\u9891\uff0c\u4f60\u5c3d\u7ba1\u70b9\u5f00\uff0c\u4e0d\u597d\u770b\u7b97\u6211\u8f93\uff01",
+                "share_url": "https://www.amemv.com/share/video/6557451141167189255",
+                "share_desc":
+                    "\u4e00\u5927\u65e9\u5c31\u8fd9\u4e48\u55e8\uff01\ud83d\ude1d\u5e0c\u671b\u6211\u7684\u7b11\u80fd\u7ed9\u4f60\u4e00\u5929\u597d\u5fc3\u60c5\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764"
+            },
+            "label_top": {
+                "url_list": [
+                    "http://p3.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb9.pstatp.com/obj/c150000f34767e2cb56",
+                    "http://pb3.pstatp.com/obj/c150000f34767e2cb56"
+                ],
+                "uri": "c150000f34767e2cb56"
+            },
+            "share_url": "",
+            "is_hash_tag": 0,
+            "text_extra": [],
+            "create_time": 1526775570,
+            "video": {
+                "play_addr": {
+                    "url_list": [
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f490000bc0bt3fl54d3gcmgsme0&line=0",
+                        "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f490000bc0bt3fl54d3gcmgsme0&line=1"
+                    ],
+                    "uri": "v0200f490000bc0bt3fl54d3gcmgsme0"
+                },
+                "height": 1024,
+                "cover": {
+                    "url_list": [
+                        "https://p1.pstatp.com/large/85260000545bcf0c7b90.jpg",
+                        "https://pb3.pstatp.com/large/85260000545bcf0c7b90.jpg",
+                        "https://pb3.pstatp.com/large/85260000545bcf0c7b90.jpg"
+                    ],
+                    "uri": "large/85260000545bcf0c7b90"
+                },
+                "dynamic_cover": {
+                    "url_list": [
+                        "http://p9.pstatp.com/obj/85260000550c9a724593",
+                        "http://pb1.pstatp.com/obj/85260000550c9a724593",
+                        "http://pb3.pstatp.com/obj/85260000550c9a724593"
+                    ],
+                    "uri": "85260000550c9a724593"
+                },
+                "width": 576
+            },
+            "media_type": 4,
+            "aweme_id": "6557451141167189255",
+            "user_digged": 0,
+            "group_id": 6557451141167189255,
+            "desc":
+                "\u4e00\u5927\u65e9\u5c31\u8fd9\u4e48\u55e8\uff01\ud83d\ude1d\u5e0c\u671b\u6211\u7684\u7b11\u80fd\u7ed9\u4f60\u4e00\u5929\u597d\u5fc3\u60c5\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764"
+        }
+    ],
+    "max_cursor": 1526775570000
+}

@@ -28,11 +28,11 @@ i = 6
 
 for aweme_id in aweme_ids:
     # i += 1
-    url = "https://www.douyin.com/aweme/v1/hot_aweme/?app_id=1128&cursor=0&count=36&parent_rid=20180411175245010008060232058BF3&aweme_id={}"
+    url = "https://www.amemv.com/aweme/v1/aweme/post/?user_id=85757099860&max_cursor=0&count=20"
     # url = "https://www.douyin.com/aweme/v1/hot_aweme/?app_id=1128&cursor=0&count=36&parent_rid=20180411175245010008060232058BF3"
 
     print(aweme_id)
-    url = url.format(aweme_id)
+    # url = url.format(aweme_id)
     # time.sleep(2)
     print(url)
     response = requests.get(url, headers=headers)

@@ -28,20 +28,32 @@ use ytdl::Provider;
 /// A basic example
 #[derive(StructOpt, Debug)]
 #[structopt(name = "ytdl")]
-struct Opt {
-    url_or_id: String,
+enum Opt {
+    #[structopt(name = "download")]
+    /// download video
+    Download { url_or_id: String },
+    #[structopt(name = "list")]
+    /// list douyin videos by user_id
+    List { url_or_id: String },
 }
 
 fn main() {
     // ::std::env::set_var("RUST_BACKTRACE", "full");
     logger::init();
     let opt = Opt::from_args();
-    if let Some(ref p) = get_info(opt.url_or_id) {
-        let video_url = parse(p);
-        #[cfg_attr(feature = "flame_it", flame)]
-        download(video_url);
-    } else {
-        debug!("unknown provider")
+    match opt {
+        Opt::Download { url_or_id } => {
+            if let Some(ref p) = get_info(url_or_id) {
+                let video_url = parse(p);
+                #[cfg_attr(feature = "flame_it", flame)]
+                download(video_url);
+            } else {
+                debug!("unknown provider")
+            }
+        }
+        Opt::List { url_or_id } => {
+            println!("{}", url_or_id);
+        }
     }
     // Dump the report to disk
     #[cfg(feature = "flame_it")]

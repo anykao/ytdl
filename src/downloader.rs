@@ -9,8 +9,8 @@ pub fn download(url: VideoUrl) {
         VideoUrl::Failed => {
             info!("Can't get download url");
         }
-        VideoUrl::Direct(video_url, filename) => {
-            let mut resp = reqwest::get(&video_url).unwrap();
+        VideoUrl::Direct { url, filename } => {
+            let mut resp = reqwest::get(&url).unwrap();
             if resp.status().is_success() {
                 let mut video = File::create(filename).unwrap();
                 resp.copy_to(&mut video).unwrap();
@@ -19,7 +19,11 @@ pub fn download(url: VideoUrl) {
                 info!("{:?}", resp.status());
             }
         }
-        VideoUrl::Dash(video_url, audio_url, vid) => {
+        VideoUrl::Dash {
+            video_url,
+            audio_url,
+            filename: vid,
+        } => {
             println!("[INFO] downloading {}.mkv", vid);
             let video_file = format!("{}_v", vid);
             let audio_file = format!("{}_a", vid);
@@ -71,4 +75,14 @@ fn merge(v: &str, a: &str, vid: &str) {
         }
     }
     println!("[INFO] {} done.", vid);
+}
+
+#[test]
+fn test_download_direct() {
+    let url = VideoUrl::Direct{
+        url: "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200ff10000bc57r6g7q8ifnjl8pjg0&line=1".to_string(), 
+        filename: "85757099860.mp4".to_string(),
+    };
+    println!("{:?}", url);
+    download(url);
 }

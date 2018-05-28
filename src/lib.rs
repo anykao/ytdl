@@ -30,8 +30,19 @@ pub enum Provider {
 #[derive(Debug)]
 pub enum VideoUrl {
     Failed,
-    Direct(String, String),       // (url, filename)
-    Dash(String, String, String), // (video_url, audio_url, filename)
+    Direct {
+        url: String,
+        filename: String,
+    }, // (url, filename)
+    Dash {
+        video_url: String,
+        audio_url: String,
+        filename: String,
+    }, // (video_url, audio_url, filename)
+}
+
+pub fn list(uid: &str) -> Vec<VideoUrl> {
+    douyin::list(uid)
 }
 
 pub fn parse(p: &Provider) -> VideoUrl {
